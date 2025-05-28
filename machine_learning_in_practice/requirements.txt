@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.4.2
+category_encoders==2.6.4
+feature_engine==1.8.1
+geopandas==0.14.4
+shapely==2.0.5
+dask==2024.5.0
+joblib==1.4.2
