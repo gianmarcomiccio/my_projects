@@ -1,0 +1,18 @@
+# Security - NEVER upload environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files (Optional: Prevents you from uploading the cleaned datasets)
+cleaned_*.xlsx

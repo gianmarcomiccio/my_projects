@@ -1,0 +1,6 @@
+pandas
+dateparser
+pydantic
+openai
+python-dotenv
+openpyxl
