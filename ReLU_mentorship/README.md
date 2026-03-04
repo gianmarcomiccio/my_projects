@@ -7,4 +7,5 @@ They include:
 - Bias and Variance tradeoff
 - Time Series and how to treat them, with Neural Networks, RNNs and LSTMs. It includes a full notebook that was used to guide the lecture and code live
 - Classification models, from logistic regression to decision tree models
+- Unsupervised Learning models and techniques: K-means clustering, PCA, kernel PCA, t-SNE, UMAP and paCMAP
 - Cross Validation and Hyperparameter Optimization for ML models
